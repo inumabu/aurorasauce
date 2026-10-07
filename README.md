@@ -58,4 +58,5 @@ asl run examples/hello.asl
 
 ## 📄 ライセンス
 
-ライセンス方針は確定前です。公開範囲を変更する場合は `LICENSE` と README を同時に更新してください。
+Aurora Sauce Language は、
+[Apache License, Version 2.0](LICENSE) のもとでライセンスされています。
